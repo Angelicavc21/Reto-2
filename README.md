@@ -7,7 +7,7 @@ Identifica los elementos de navegación en los siguientes sites:
 - Github
 - Medium
 
-1.-***Breather:***
+1.- ***Breather:***
 - ### Navegación filtrada
 
 ![Con titulo](assets/docs/img1.png "titulo")
@@ -22,7 +22,7 @@ Identifica los elementos de navegación en los siguientes sites:
 
 ***
 
-2.-***Github:***
+2.- # ***Github:***
 
 - ### Navegación filtrada 
 
@@ -42,7 +42,7 @@ Identifica los elementos de navegación en los siguientes sites:
 
 ***
 
-3.-***Medium***
+3.- # ***Medium***
 
 - ### Navegación local
 
